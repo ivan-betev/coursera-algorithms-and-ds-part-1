@@ -1,2 +1,7 @@
-# coursera-algorithms-and-ds-part-1
-Code that allows you to pass Programming Assignments from Coursera's Algorithms and Data Structures Part 1
+# Coursera - Algorithms Part 1. Programming Assignments.
+
+Link: https://www.coursera.org/learn/algorithms-part1
+
+Code that you can use as a reference while researching and developing your own Programming Assignments in the course. It's not recommended to use this to pass the grader. Try to understand it first.
+
+Credits: Coursera and the Algorithms-Part I Instructors - Kevin Wayne and Robert Sedgewick
